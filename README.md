@@ -3,6 +3,9 @@ This project analyzes how car dependence relates to pedestrian safety across the
 
 The analysis focuses on state-level and regional patterns, highlighting how mobility behavior (driving vs walking) aligns with pedestrian risk outcomes.
 
+## Dashboard
+The Tableau dashboard can be viewed at https://public.tableau.com/app/profile/alex1249/viz/PedestrianSafetyDashboard/Dashboard1
+
 ## Data Sources
 - Fatality Analysis Reporting System (FARS)
 - Governors Highway Safety Association (GHSA)
